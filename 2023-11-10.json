@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Martin",
+  "age": 62,
+  "address": {
+    "street": "Bipo Pike",
+    "city": "Hihili",
+    "state": "UT",
+    "zip": "02120"
+  },
+  "contact": {
+    "phone": "(812) 699-2823",
+    "servicePhone": "800869834"
+  },
+  "birthday": "2004-08-23T20:27:59.249Z",
+  "ip": "101.60.210.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Douwehof hotibi uceem mofim wultoj owka cota avoce vi bin az ferbijef wela vuti ilaot. Domevsow rajar bafbuguz vera en geoni kovfahe gar efalawem mojkufse ribbi kozravdow uhiveze zunwughed zi sison. Wuf gilale if cob ivusezzi wegoshuv usaneodo meh icofit lodo sete co ivetoho waudban. Unu foju sisiwe ha jibwo om jiaralu bogag jemorolo apnocac defsiimi bofaak paparor zewi. Wogelazo epwim ervarak sebuli vo roudacon tifiggeg ejova wakamu boj woh isbiz gejogofu ra nu ukauzral beza gi. Lowopu jiro febohoc alfarow amu pec ot co bu zo peksul geluwed zuwhiw. Voptodid zahtun sipuceha hedoin lo poevcom omiwu batog pog cice calobiv com ipizol uje ol wejfihuva pug.",
+    "bio": "Di pebovigej mudpetis pofafuahi dokadoc ufetouvi po te dud toh avuhubow wo bapapgo hih laar seezimih jozlehan capemco. Apage le cina cadsoc zuezo kosagfev vutduvnib vogojes bahgedeli sa jik dudfo pujul nuw kadovfa nossed piw. Tobfona hadig oksu kejuhuk tino cod tale fu ro sam hecuzse kec jom obmow akujuv ocalaupi dom. Vo udwuv cihefu kum nupo seniz tesozi osawusi cic ha etaseliw wohger cuip rozcipci ga raz wolew bos. Hi eto tu jubdo kepij ozive tur rowude lukto duh aksalcur mukiluvi tololbep ufuuvkal bijco tombuz sowfomek jijujiceg."
+  },
+  "apiKey": "fa61992965da968074be04562b5e45cb290ca7189a48544646403a78bf8f88ed",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
