@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Chandler",
+  "age": 28,
+  "address": {
+    "street": "Vodu Junction",
+    "city": "Omfigku",
+    "state": "VA",
+    "zip": "04916"
+  },
+  "contact": {
+    "phone": "(652) 877-2834",
+    "servicePhone": "800944294"
+  },
+  "birthday": "1992-04-09T09:01:58.963Z",
+  "ip": "240.32.183.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Komuze gu gacrujuh dohetwe fus nofuda rakzikpa anigubaz um ulozec gabadaze zam sog otipew hawomo woh ardita. Ofu va mosu loguw jilirru fitnah hunijgem evu salcuvij mavfasa woco gica tupsul nus. Dab pepcot du hak ac wi nuveuza cecdo kugwewig aprev zirjulen dev. Wezrup jahah ti ve mogegi edmifhiw vezsa ema wen dado gapni odoimo va ceka to derloedo on kubid.",
+    "bio": "Komo ge eju dik japumada wa mokfusta uwili rufeam ati vaguj jeekhus lu ve. Milecugez inauk todzigel zuez giwpo tagut ube kiuguhoz vaugeka fajif navro jara. Gevtu totwuna vies big gu tovgab rebuk pivgod be vec nu ajosul ekarol animeclo bupwu."
+  },
+  "apiKey": "ab90cc177ebc1216cc34b05124ee37895ded544c33fe8d9c25ce4f5676044175",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
