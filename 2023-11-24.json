@@ -1,0 +1,26 @@
+{
+  "name": "Mario Barton",
+  "age": 22,
+  "address": {
+    "street": "Tubtiv Turnpike",
+    "city": "Cariva",
+    "state": "WI",
+    "zip": "01712"
+  },
+  "contact": {
+    "phone": "(774) 277-7712",
+    "servicePhone": "800578243"
+  },
+  "birthday": "1998-11-09T12:49:46.313Z",
+  "ip": "154.166.23.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Tam rotpies tic pawulu vibcu egonatsur revgis ecdinmi wiub gakurih zis fivbinmug. Viuwoeri vucgac dahdo pev wuujizi ufaawumi jaz duub jok ruretel dojun za. Kin pozbe papma kugfor mik sessu la rikcop mad fufag ra uzaelhuv cenlofu jitefzop.",
+    "bio": "Librovi sewowajo vocu ocebi ak uf ida kid jodvace socfaj cutedkul fazep wulo vesem daug cahulju. Ibhom fu ripog uje gagizup azu agivi uc udaganic kalra tuov gucemug ga ho at buibe ri vefne. Mikraded el wapoz fevas zavo fuulu ipu hem licucda fipul simasi ofi. Bomejugeg elo ah cel naguceb to ace fuuduju cumlevbar fo hiadika lucopeli ibi fubkaedi zi ra tufne."
+  },
+  "apiKey": "e67864442415d5a983507a2ea1b685c331b6c678e002cf8b7185f29f8d9ad7d7",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
