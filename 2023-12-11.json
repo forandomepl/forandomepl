@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Moss",
+  "age": 52,
+  "address": {
+    "street": "Bazaw Extension",
+    "city": "Vesucham",
+    "state": "UT",
+    "zip": "58182"
+  },
+  "contact": {
+    "phone": "(513) 515-1293",
+    "servicePhone": "800294236"
+  },
+  "birthday": "1996-04-16T15:54:20.972Z",
+  "ip": "76.204.150.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa oge er nap doaparo kirsetan peltiwa awci jimeh gah gafteh maceh uha fowpo. Akare zetpav jemcivu namriebo asi va hel wouzwo mipejoh ropo ku esudub ocimesi bivecso zotevte jutlitik ga ovo. Ze vo es ul kifu wap vibfivoc rir afikavu uw hatvicow kahnafsun gav vohtep mofgin. Maguf bi tugu ratueme fawtabla huipa ufihge pade edogige hafipvet cur givgo. Jeuc nime vifupdu be abo gevobuic ec ruwul zic zovivfe ije pevva vurifed.",
+    "bio": "Azehizoh gocje jenike ramuel kupvis di mu owvur keoc inocec ogepud nosfeafe derrojop. Osu ethekur mehvanseg burwa med jiwreguka juli jop gujupun cuszod zucru muh lalok te vo ope. Laem vem leiza buw vu kabow ko bewokehu egotismi mukpum mugfih gecetace luvizfok gud."
+  },
+  "apiKey": "b3a0f81c69c26dcb015344e75c702bf1d192e799d5691568a30cfcea06c420fc",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
