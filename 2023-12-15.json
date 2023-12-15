@@ -1,0 +1,26 @@
+{
+  "name": "Sam Potter",
+  "age": 63,
+  "address": {
+    "street": "Larnuj River",
+    "city": "Benoda",
+    "state": "MS",
+    "zip": "59369"
+  },
+  "contact": {
+    "phone": "(325) 454-8918",
+    "servicePhone": "800376531"
+  },
+  "birthday": "1986-05-30T13:47:03.722Z",
+  "ip": "157.65.95.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Negiucu zunet ci hejkas luvron lajetgi il asa ho tivoazi owisavur titu binoheup. Gisowgef fag tin ij sa doze mafsi pepajeb wizogoh gapvarav jokruodu biwsafu resegha dacruiha hod. Ifooz bed doje occevu bifko ocifa gici wi kicisoc buz fom kampuzez gupajfev ga li zospuwda.",
+    "bio": "Diz ge didokja ta rabo vi pewcab iz tudu octiwfip ja obo. Ridemu luji lovsaveb uneilu pomigoz duj ikliwha nos os ofcu ji dazegfim cijbalke nehhu sotun ki wo. An lu piho hettopmu vafet ro ihwuzwed ageje ozo gekorej ipobevjor ri juvuszem tot nefde ozdifdod. Wawupabad efgo idmahu ab jupjar olu kab peimu nu ladejsi mavke noofopo."
+  },
+  "apiKey": "b382765e7bda5ee6976726b2f3fba635c6a4a523c537a0639abc7e69551cba52",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
