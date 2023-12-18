@@ -1,0 +1,26 @@
+{
+  "name": "Ella Greene",
+  "age": 39,
+  "address": {
+    "street": "Jisuko Square",
+    "city": "Tefjihaf",
+    "state": "NJ",
+    "zip": "63314"
+  },
+  "contact": {
+    "phone": "(775) 225-9872",
+    "servicePhone": "800952626"
+  },
+  "birthday": "1990-05-07T19:30:04.357Z",
+  "ip": "19.183.231.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Eczolfuf jassoka fu elu medtir ovo favsikwit kivod sasoheru iva gezgajuwi rarucpe enouzoki ap fu daplinzi fimwaah. Albibmer ese na wediet johibtah rojdevid re seven vu gob ve ow sihilcas pu vokhenub si. Samzoc ab bera suj ubku jal gibrobger uhfizo awehuaf pe vukiof jemda feuboduz cirfubmip rogalkol.",
+    "bio": "Na abiviwam kavotu nafel uni ro se kobe cikpudal sokaz gigpe su. Ijujad ligsizki cerbo bovafno ov mimusiv ripwicefo hoku ni ca ker lu tiolu. Egdeg bo olidu cotmok une cij eh gemoke recco noruoso naknesse gajku uhiebcig nomib kuszat temosi. Veg jupsuben rajis laiwifas iz jorki ko gohonvuw ham utouvofe gate ilu mokirda supiji keidu memhi."
+  },
+  "apiKey": "0126841ab9252fc2a4aa90adec7c8abb6da5050b6450d0d1b1161341b483e8c4",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
