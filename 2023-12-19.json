@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Frank",
+  "age": 24,
+  "address": {
+    "street": "Tizwa Point",
+    "city": "Hidfaji",
+    "state": "CO",
+    "zip": "68461"
+  },
+  "contact": {
+    "phone": "(645) 536-4805",
+    "servicePhone": "800447799"
+  },
+  "birthday": "1991-06-05T08:27:07.752Z",
+  "ip": "233.166.89.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Menavuuv ura en dagu ucdake recho mi nesit natzait hojke eh bubu fazsesuv unruku. Jemit amain saw alukege linot wun sem umoadus kul ifsu ton zo kidumve tocpepet. Tadkoca muli cawni radi pol me atuvi dak rahbip vi igesezet soediiza afacah mubenol. Niiv zel aciffo wuma hekovuv wacouji mefujar lurkol juif wuvmeud mibeb va romiag der. Durjas guna jida jontectu awponmih sotede ditto enuzez ho nep zoehube mawu mabuki gerrajhan ha cowit ziedidec fuep.",
+    "bio": "Ucwiv wij nule cu umaorveb sowa kuzzi tegkiseb tu duzoko hater wahsape ma kobos ahawutnij. En het pagugi enodavhe sorova roesu daktukav ozauso humamu senup avmerme cop hobiso pimufri kucu bof. Tiadilit po ga je gonav lizunuk be ciula po tat hoguhen ab nadvid. Edo libvojo motruza fuvimeb orimitteg tefra vu lakwauda huubi omligfar ge so. Apledu paku fiziwki bu wegra huabuga rizucik nar zawagi sa tatinzen hudjuuli tir ci susohro. Ibjotah osagocon vuohu kivumo buc gut apuzo vat avacek duhpo ca kahhuom hal."
+  },
+  "apiKey": "b6ebc535188c205eeced92296fd8e1480fd82fd7586bd69bef1c5892277f190b",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
