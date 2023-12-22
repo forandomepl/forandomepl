@@ -1,0 +1,26 @@
+{
+  "name": "Jay Johnson",
+  "age": 41,
+  "address": {
+    "street": "Moada Way",
+    "city": "Widacuw",
+    "state": "DE",
+    "zip": "48359"
+  },
+  "contact": {
+    "phone": "(227) 554-4654",
+    "servicePhone": "800111132"
+  },
+  "birthday": "1983-03-24T10:31:35.593Z",
+  "ip": "186.175.216.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Vug ge cu likbaboni fesoedu sokrumhu lopva ro ro pagkam nob lup zujcemdif vi gu lu as edvojig. Hognowu deice tetowmis rik zutpat ofahoen un lofenbi ogo jaahjuz vi bijucibes. Tucjoj kuk eggermal rep nukuac ari timov kizisze ena not joldanwur duj gabdeak jitihuof jaolum. Rodzawe hik omliv ozi guz taponelu es jolu anfumjok muzna kiv jumopis lop timvuh hif lujjivaz.",
+    "bio": "Mimuzi hireidi ebo ehi alapi ma fafmi favnekcat huvipid ve fi loato mafegi muwus waz sacsi kuj. Cef nabo rufoniwu ata pamopjow zegub getuje muaja mi cotih selag siwu bevnuke egeib wiwsa miro. Esfosam rono ton cu mitnekej ca kakdoij ge vow coc zotku baliba hodi."
+  },
+  "apiKey": "be521fc78dac5239992e767127cd625421d9297d5e4ca5937a896088c53c1265",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
