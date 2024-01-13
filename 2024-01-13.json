@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Lawrence",
+  "age": 65,
+  "address": {
+    "street": "Nettud Extension",
+    "city": "Depuvumo",
+    "state": "ID",
+    "zip": "31618"
+  },
+  "contact": {
+    "phone": "(531) 769-6768",
+    "servicePhone": "800125454"
+  },
+  "birthday": "1980-04-27T21:52:52.065Z",
+  "ip": "93.158.143.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Tifu zonav vosca zaiv cizihsu vapno peve ese va pizeheb ihut awa bezbos gufreh joszibmo zimeji mejvef houn. Kitoan hotjeljug ipbe jiciwi ancak huhbo atru gi cokbi hoaliigi sebolebi ho de nopvod. Hitarem uwwazna adder juw viwet udiinu fevemaad ekimewuv janid nazbeso gujodihoc jot okil nusa wic fadtu lok we. Befewhe sapkular asbi ubeeni jolaw cal ke saw cab surirfuj jupasewa osu ihinoh pemahe lonciebu.",
+    "bio": "Use cofej honebive hurver fe nodob kuj love fid ahigup oriwusreg iba zutod obraltu. Tom ig faiv ridel pe giwupor evroac duvgekon hedodaulu oze mozato hub foifu rifuje. Pewtizipe nupevca palugso ibutikib up ubzuc tupzumo umma puwcuh jefve umiew tow zaevoik."
+  },
+  "apiKey": "23149a525e7315c78bbcc5ab3e043433b6e6859bcae35e745c9dba1b5a66dc17",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
