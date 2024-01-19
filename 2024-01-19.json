@@ -1,0 +1,26 @@
+{
+  "name": "Fred McGee",
+  "age": 45,
+  "address": {
+    "street": "Koera Drive",
+    "city": "Adhidu",
+    "state": "GA",
+    "zip": "64604"
+  },
+  "contact": {
+    "phone": "(523) 426-5950",
+    "servicePhone": "800672857"
+  },
+  "birthday": "1969-06-21T11:58:21.358Z",
+  "ip": "190.63.5.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro zaospe hi ule kupupse so fowaji nugvip ve fucbu dep vijidah relubi tunduk ujazuam dukputa. Bapjiv no gus alerad ogune gez op finmag sastap sa rutej wesajmu. Ew pefuod sol lonirhur bufaz ba pumici rot hocogome jajefu cice guzdoggam. Melolsa ev foga savetil ozivuj izapuno vu buwe tut gagguzof wo nuok sobdarmac kepum.",
+    "bio": "Fuwefsat tikgif navdave duw tuwce refazuego akje mikzo ezwi fonatfeg dozdumbi fi jopgo. Bahmotron inro kesucopuf pup taah fo pehkaszu nuabror cur taccomen ujbucwuw ket fuhufte fewbube vopopno hobun hebe meb. Afa ci naddevi wari kaecavuh cis ecinulu fazla hika mammep ugugif nasibut nitti hut hulmeg wacfin enajo bo. Gon nunecdec lep fopgo cemkuvop el suwowsag cavevlob use ufe jet doridooli ko gogois orituuvi fofizi fegewoje torbegzoj. Abfa kezidci ve ki foijus vov ka turutak afe dubufbiw hadfo ta if usu ma nailze ogtivler ufegu."
+  },
+  "apiKey": "be18d112575712e053833a7082f2d4859bfd9db790e0028172dd2013da906c52",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
