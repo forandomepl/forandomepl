@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Silva",
+  "age": 47,
+  "address": {
+    "street": "Fejfe Way",
+    "city": "Piwbece",
+    "state": "KS",
+    "zip": "29463"
+  },
+  "contact": {
+    "phone": "(243) 255-9986",
+    "servicePhone": "800192534"
+  },
+  "birthday": "1960-10-19T22:30:47.891Z",
+  "ip": "9.109.111.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuci kibat kinber dufhavag wioc ebkup opoifadaf wuhug daf pikde no bosuvki ob. Ujavig uzare wef udu vovoklof bosmico kuwo fi zarkurzed wetfueh dasocje ceb heid te uvhi iwza rivvek bif. Kidhijlo fevez ukdu ewosaj ti tidkeno fucrabab calo vus ebakowam joneene pabeziw jef sur. Siba julervaw pazsubel vaoro epeji ekose zowu focduni faat ija gu muzovav han lu.",
+    "bio": "Sas ahu akgugji ecoduvo tipamet gulsummej sacvuim tiwi ni de jumtipeg puovosi sijolabe fobek kajitbaw eloniffi rac. Pezha ca haasoira sejarhoz zeemocut logaha hiwdo to unu ipofo geh og ubiju bufivaf. Uzika la bar cac pacgid guhho dusolheg po gih vo mig ehu jat umakuwo."
+  },
+  "apiKey": "96a433ffa3d31ab38e7f3b2d2745647f9d2601afa3138872b2ff4137d86f0680",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
