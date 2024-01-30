@@ -1,0 +1,26 @@
+{
+  "name": "Corey Daniels",
+  "age": 50,
+  "address": {
+    "street": "Noheh Street",
+    "city": "Huzruot",
+    "state": "MA",
+    "zip": "09907"
+  },
+  "contact": {
+    "phone": "(622) 647-4331",
+    "servicePhone": "800525918"
+  },
+  "birthday": "1985-09-11T16:32:22.339Z",
+  "ip": "96.38.251.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruwodof tal cup ve re kozaw hapuv ovit lani gu iri depe assa. Lale ewecu esuvivzo ore ed ontev podko dimhow ogse ezu li lihal cigrove. Fa jakhije pueke inpa het cizuba ici vim noapipi iznos mozoggub enosehi to fuidi. Is suumu pe ko ge hav buracle vufhor wotiot cuhzo gos dafjaval.",
+    "bio": "Ijizikuj kewabwuv atuheri ecuconlab akine tijnofu fivaz vajre wo sebowon ekafiz ka mase azgakafa rib mulocniv. Mudi daludkap cic gel elehbu darlejow zivisot gacinija fehe uf un iwajonke lero. Hoj ophowzo cu lad zuhalaf ziwis olejo pibuene ekikidez osuwomiv ibivewu omful so."
+  },
+  "apiKey": "208096646ade69bd2984d75d2de5800e1abd16f91a462a62edd1637cb8ac8dea",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
