@@ -1,0 +1,26 @@
+{
+  "name": "Nell Oliver",
+  "age": 65,
+  "address": {
+    "street": "Orge Path",
+    "city": "Vejsiubo",
+    "state": "MN",
+    "zip": "98265"
+  },
+  "contact": {
+    "phone": "(665) 245-3333",
+    "servicePhone": "800768746"
+  },
+  "birthday": "1994-12-16T00:20:40.593Z",
+  "ip": "27.102.177.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Hop lelli namalac pirtisac omi ez vovpesed fazis mafo opibi najbubena ruzujrad niso zuzcof ilufac vosu nuksikwup. Ga ko jugwimnu tipudoitu nupodi ne ucazem gipva asubu ertanus jarozfu pa ugavecesu sano zav nimag bonsi eno. Ron fokec nemmuw zet oholo buttebiv pan je emjor udti da lonnez kajiv retubcoh cejmigere. Zowderwos guvna boj rij igjabrod donbuow torizfi vamob igafupgo pa al le ivueszas gacsot.",
+    "bio": "Enumevso emoco zolura bo iswuso mihteami viveh facti acehanej wemoczi ni ne ula. Wajhi sajatcuk pursupeb ju jastumiv cijba wib lirpik tebab eruilaco cu kob wab obe re gokujis. Tubrul datfi mubwatsic izmib kos bopmackob wasjeefi vafec lasocinit sab cecga lup pem."
+  },
+  "apiKey": "edd0a71a100102a579ad4be6c3eaddd46b6d4c7695dd7c96f1bc0a5338da2a02",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
