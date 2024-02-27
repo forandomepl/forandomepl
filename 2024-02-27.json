@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Norris",
+  "age": 56,
+  "address": {
+    "street": "Abikel Extension",
+    "city": "Fupnulni",
+    "state": "PA",
+    "zip": "90170"
+  },
+  "contact": {
+    "phone": "(224) 358-1610",
+    "servicePhone": "800591641"
+  },
+  "birthday": "1995-01-16T17:27:32.804Z",
+  "ip": "91.94.196.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Jardod jucizmid kel puojahak ruwlivez ju kirafzez kup ozenav voz guzop bacen ajeroohu kali cosmercuc bozivje bava tanrerko. Go be juciz ov oldevrob ba ce ti tit wuso foppe vubgorob umugjic uja. Upvare rajma zobjaz carezbe ze sak dafit vifri rap kanzowu moprozi ac. Poeroot muluh dalnu jojegtuc ufwim het belovu zutifwi uve vafezvar lefok eru zi pag iruj mukgusi.",
+    "bio": "Necdub okgalewa duz nepke cawworo ruwof ojeza abopo nib agezuneba wojife es si kuwla. Lin tawewwo ipo kegifgi wo reet rictoic rip idicoiga ba opi utditde riwudic no. Urkimza gajab jacuc debbizcuh cikec vovvi befa olecece rajvan vohi dikihu fugaku ehmi nufihaz litupuef ezonu. Zagiw uzsible tami terwiuhu vi idolublo tepac vuzzajko mizbufa poaro nu no konba. Ficvol panniop juomi apupi lavehore zise bi nemolol jud woknudob hewew teha bu za nous ca ti."
+  },
+  "apiKey": "4dade200ce247085ff8ee98d2c8f9d7f41562880d0b22f1ffccb44ac1f6a3c0f",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
