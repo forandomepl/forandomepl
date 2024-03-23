@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Baker",
+  "age": 40,
+  "address": {
+    "street": "Kepozi Parkway",
+    "city": "Mejsefaf",
+    "state": "NY",
+    "zip": "56858"
+  },
+  "contact": {
+    "phone": "(887) 318-2465",
+    "servicePhone": "800452147"
+  },
+  "birthday": "1986-04-01T18:37:34.755Z",
+  "ip": "222.154.35.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Sitav noebu bonzo balluwico pu mijlalic ureji uka mo tuijucak ta co nasdija. Pu ha zegemaza sudheb saegpo josa wot od du sonpeg up do. Hih beked wuf sovok elobieg mo vina su mebuc ordu dosaw lag.",
+    "bio": "Ejefecek zonimi vup lel ogu cavvesvo joni renamteg benel fumuk mezok buvin ge. Deri ov pe hu nudegvu azzal ulkeazo giwi pevfe cegzidos di hol siihuehe ogoalof na. Tofju ne pahaslih ajut amso wojutulev zew rog lozutjuc otoelmi apagi felomri galonpem cij witaz hufelem ekigi ucovihduc. Joala hemot vaerauv rafa ja rudaru zakzeca sahak heh fakaw ti cegisu guzi ziteh bu kezmosa."
+  },
+  "apiKey": "c6b1ede91c11f49717844375c5f7f20c9dc49bae8b029ff35725f695253169e7",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
