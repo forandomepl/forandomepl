@@ -1,0 +1,26 @@
+{
+  "name": "Randall Kim",
+  "age": 35,
+  "address": {
+    "street": "Hoje Extension",
+    "city": "Fegogu",
+    "state": "NJ",
+    "zip": "87012"
+  },
+  "contact": {
+    "phone": "(742) 242-9819",
+    "servicePhone": "800389164"
+  },
+  "birthday": "1960-12-24T14:42:20.277Z",
+  "ip": "116.72.22.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Wokno eneippug ec ipujanav udipozzu guala vikurze sirciven atizehuk zi ta ce viv ema fig cit. Gireras joura lisivmen jovupot mulzap vavavwad to teanihu hafec nefhohke bo wablaewa. Ene vipe ha napaj uwa tewozus fifvop co morut fepe gi zaukueho favuv deehsi. Cilej kenjur mihmubcuc ciwaz kinego ogogubpud sajiti foniw uvozeh askuid wanal cup jah tar elofum ozopvah bijagfoj jivip.",
+    "bio": "Pobor unsac diskuv hocaz copbag nissiv wiwbuhro lil ji nowpekwul gefi cepmac ja ozipeila betwaje vaofo ge. Sudmejjaf sujada bihoteim hefimem kurek koiko furiva ir ebuaco zirokiwi uweeh miv po. Tudtak sib pat opwurub jufucowi mapjeajo murzu fezje kesahop cazgotro riole ul copu tubijep pug henuha."
+  },
+  "apiKey": "db13d9d51fb41f288146c83a5a0b5d82cf9356f262b2e546e2ab4037f82315ce",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
