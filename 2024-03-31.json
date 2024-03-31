@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Farmer",
+  "age": 51,
+  "address": {
+    "street": "Pompe Ridge",
+    "city": "Kentobse",
+    "state": "ND",
+    "zip": "06518"
+  },
+  "contact": {
+    "phone": "(311) 960-6669",
+    "servicePhone": "800598188"
+  },
+  "birthday": "1997-03-02T04:16:16.304Z",
+  "ip": "42.38.212.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Go be zew fib fanorla voeface mu nouda fiug cuv zaci zazborat nu sogral pocev zubugvi. Befug waenma sadevaz ibenun zuivaeto mopwupil sow ker ekapupjel ucivoar obi nusij nofedo fieper heheto up ilsus jevi. Fufam fa vi ojunere hib hige hajzobtud zef arlo hi wawafi tadkaf od rim miv ova zi ud. Nebgotog moihavu kumcoh vacweple hakuaw vuawamu ur no ize vefof vaha pokmokve dokci epge inbi upi hep ipeja. Zij tamis so be hojmoaw abdu fames ifehimto ca towfo ucofu vekirku sucjevin teczuk awa telorhu heivefu pon. Egje hikim sa vafukhes on duajoc foz ricfug id ogajehdaw rop vucwep ale veczaro gu tiezsu.",
+    "bio": "Iriijeoti epnapig gukzej ecasah awpitdak dattumec atujuko ki wuwjomru naluza opzi dokoguzab ho ka ozineje. Wuhsaj bacag go mej ragombi nu vo zumwev lor ehoon da ruruv ohu im demeh hauba. Roh fulsimi udesuhcud bevun wipcauza tum givtefsu cik umnun daplo enjeno foib za tarme."
+  },
+  "apiKey": "84c0a56efea5c8b09de670045f24458b8c8e5a6119d8c0d1ccfa50e4a4551f7f",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
